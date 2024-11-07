@@ -13,6 +13,7 @@ webjars-bootstrap = "5.3.3"
 webjars-popper = "2.11.7"
 webjars-locator = "0.52"
 webjars-fontawesome = "6.5.2"
+okhttp = "4.12.0"
 junit = "5.10.3"
 kotest = "5.9.1"
 mockk = "1.13.12"
@@ -61,6 +62,8 @@ webjars-bootstrap = { module = "org.webjars:bootstrap", version.ref = "webjars-b
 webjars-popper = { module = "org.webjars:popper.js", version.ref = "webjars-popper" }
 webjars-locator = { module = "org.webjars:webjars-locator", version.ref = "webjars-locator" }
 webjars-fontawesome = { module = "org.webjars:font-awesome", version.ref = "webjars-fontawesome" }
+# OKHTTP
+okhttp = { module = "com.squareup.okhttp3:okhttp", version.ref = "okhttp" }
 # JUnit
 junit-bom = { module = "org.junit:junit-bom", version.ref = "junit" }
 junit-jupiter = { module = "org.junit.jupiter:junit-jupiter" }

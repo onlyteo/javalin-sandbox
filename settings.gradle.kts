@@ -17,3 +17,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "javalin-sandbox"
 
+include(":javalin-rest-api:frontend")
+include(":javalin-rest-api:frontend-api")
+include(":javalin-rest-api:backend")
