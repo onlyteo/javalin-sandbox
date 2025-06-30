@@ -1,6 +1,6 @@
 ### VERSIONS ###
 [versions]
-javalin = "6.3.0"
+javalin = "6.7.0"
 jackson = "2.17.2"
 slf4j = "2.0.17" # Sync with Logback
 logback = "1.5.18"
